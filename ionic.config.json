@@ -1,0 +1,7 @@
+{
+  "name": "gsb_ges_activite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
